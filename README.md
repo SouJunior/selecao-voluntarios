@@ -6,7 +6,7 @@
 Quantidade: 2 vagas.  
 Projeto: Site SouJunior  
 
-Quando?
+## Quando?
 Inicio das inscrições: 9 de agosto as 12:00 até as 15:00 do horário de Brasília.  
 03 horas de formulário aberto. 
 
