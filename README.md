@@ -23,7 +23,7 @@ Youtube: https://www.youtube.com/channel/UC3qp3wN75rI8TW7o5eGilYQ
 - Apenas serão avaliados os 15 primeiros em ordem de envio do formulário, que receberão feedback por texto.  
 - Vamos chamar apenas 3 pessoas para entrevista em vídeo chamada.  
 - Na entrevista com Wouerner, vamos avaliar disponibilidade de participação, não vamos avaliar hardskills.  
-- Enviar formulário dentro do horário, antes ou depois serão desclassificados.  
+- Enviar formulário dentro do horário **(enviar >= 12:00 && enviar <= 15:00)**, antes ou depois serão desclassificados.  
 - Ter menos que 1 ano de experiência profissional.(freelancer e estagio contam como experiência)  
 
 ## Diferencial para as vagas:
