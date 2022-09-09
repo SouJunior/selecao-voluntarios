@@ -10,23 +10,23 @@ Projeto: Site SouJunior
 Inicio das inscrições: 9 de agosto as 12:00 até as 15:00 do horário de Brasília.  
 03 horas de formulário aberto. 
 
-## Regras
+## Regras de participação:
 
 Seguir os perfis:  
 Nossa Página no Linkedin: https://www.linkedin.com/company/soujunior/  
 Nosso Instagram: https://www.instagram.com/soujunior.tech/  
-Github: https://github.com/SouJunior/ (Opicional)  
-Twitter: https://mobile.twitter.com/SouJunior_Tech  
+Github: https://github.com/SouJunior/ (Opcional)  
+Twitter: https://mobile.twitter.com/SouJunior_Tech (Opcional)  
 Youtube: https://www.youtube.com/channel/UC3qp3wN75rI8TW7o5eGilYQ   
 
-## Regras da  avaliação:
+## Regras da avaliação:
 - Apenas serão avaliados os 15 primeiros em ordem de envio do formulário, que receberão feedback por texto.  
 - Vamos chamar apenas 3 pessoas para entrevista em vídeo chamada.  
 - Na entrevista com Wouerner, vamos avaliar disponibilidade de participação, não vamos avaliar hardskills.  
 - Enviar formulário dentro do horário, antes ou depois serão desclassificados.  
 - Ter menos que 1 ano de experiência profissional.(freelancer e estagio contam como experiência)  
 
-## Diferencial para a vagas:
+## Diferencial para as vagas:
 - Saber um pouco de react.
 
 ## Sobre o projeto:
