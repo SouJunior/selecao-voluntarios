@@ -13,11 +13,12 @@ Inicio das inscrições: 9 de agosto as 12:00 até as 15:00 do horário de Bras�
 ## Regras de participação:
 
 Seguir os perfis:  
-Nossa Página no Linkedin: https://www.linkedin.com/company/soujunior/  
-Nosso Instagram: https://www.instagram.com/soujunior.tech/  
-Github: https://github.com/SouJunior/ (Opcional)  
-Twitter: https://mobile.twitter.com/SouJunior_Tech (Opcional)  
-Youtube: https://www.youtube.com/channel/UC3qp3wN75rI8TW7o5eGilYQ   
+- Nossa Página no Linkedin: https://www.linkedin.com/company/soujunior/  
+- Nosso Instagram: https://www.instagram.com/soujunior.tech/  
+- Github: https://github.com/SouJunior/ (Opcional)  
+- Twitter: https://mobile.twitter.com/SouJunior_Tech (Opcional)  
+- Youtube: https://www.youtube.com/channel/UC3qp3wN75rI8TW7o5eGilYQ
+- Deixar um estrela nesse repositorio.
 
 ## Regras da avaliação:
 - Apenas serão avaliados os 15 primeiros em ordem de envio do formulário, que receberão feedback por texto.  
