@@ -33,4 +33,4 @@ Youtube: https://www.youtube.com/channel/UC3qp3wN75rI8TW7o5eGilYQ
 Vamos desenvolver um site para o SouJunior que vai contar um pouco da historia, e trazer muitas informações para a comunidade no geral.
 
 # GO GO GO: 
-Link de inscrição: ....
+Link de inscrição: https://forms.gle/YrN1fFdfnYChKpWT9
